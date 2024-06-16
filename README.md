@@ -1,4 +1,4 @@
-#Supermarket Sales Data Analysis
+# Supermarket Sales Data Analysis
 
 This project involves the analysis of a supermarket sales dataset, providing insights into sales performance, customer behavior, and product trends.
 
